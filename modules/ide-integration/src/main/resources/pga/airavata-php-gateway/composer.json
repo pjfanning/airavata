@@ -6,7 +6,7 @@
     "require": {
         "laravel/framework": "4.2.*",
         "teepluss/theme": "1.*@dev",
-        "phpmailer/phpmailer": "v5.2.*",
+        "phpmailer/phpmailer": "v6.5.*",
         "moon/properties": "0.1",
         "graham-campbell/markdown": "*"
     },
